@@ -3,7 +3,7 @@
 
 - 📝 I regularly write articles on [https://medium.com/@fauwial.khan](https://medium.com/@fauwial.khan)
 
-- 💬 Ask me about **R,Python, SQL, PostgreSQL, PgAdmin4,**
+- 💬 Ask me about **R,Python, SQL, PostgreSQL, PgAdmin4,Gen AI**
 
 - 📫 How to reach me **fauwial.khan@gmail.com**
 ### 💻 Tech Stack:
