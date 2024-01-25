@@ -1,5 +1,8 @@
 [![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&random=false&width=540&lines=Economist+creating++real+world+data+solutions!)](https://git.io/typing-svg)
-- 🌱 I’m currently learning **Machine Learning on Python**
+
+- 🙌 I'm open to: Data Analyst, Data Engineer roles! 
+
+- 🌱 I’m currently learning **Machine Learning, Big Data, AWS Cloud**
 
 - 📝 I regularly write articles on [https://medium.com/@fauwial.khan](https://medium.com/@fauwial.khan)
 
